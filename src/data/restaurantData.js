@@ -35,7 +35,7 @@ export const restaurantConfig = {
   
   contact: {
     address: "24 St Paul's Square",
-    city: 'Birmingham, UK',
+    city: 'UK',
     postcode: 'B3 1RB',
     phone: '+44 121 000 0000',
     displayPhone: '+44 (0) 121 000 0000',
